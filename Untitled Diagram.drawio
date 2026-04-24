@@ -1,28 +1,28 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="144z_ls8VwdtrAfXYLLh">
-    <mxGraphModel dx="1099" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="H0dq7KXNH1seOt2mcSe5-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="H0dq7KXNH1seOt2mcSe5-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Add member" vertex="1">
           <mxGeometry height="80" width="200" x="154" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="H0dq7KXNH1seOt2mcSe5-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="H0dq7KXNH1seOt2mcSe5-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Issue book" vertex="1">
           <mxGeometry height="80" width="200" x="164" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="H0dq7KXNH1seOt2mcSe5-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="H0dq7KXNH1seOt2mcSe5-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Delete member" vertex="1">
           <mxGeometry height="80" width="200" x="164" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="H0dq7KXNH1seOt2mcSe5-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="H0dq7KXNH1seOt2mcSe5-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Accept Return" vertex="1">
           <mxGeometry height="80" width="200" x="164" y="450" as="geometry" />
         </mxCell>
-        <mxCell id="H0dq7KXNH1seOt2mcSe5-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="H0dq7KXNH1seOt2mcSe5-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Calculate fine" vertex="1">
           <mxGeometry height="80" width="200" x="164" y="580" as="geometry" />
         </mxCell>
-        <mxCell id="H0dq7KXNH1seOt2mcSe5-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="H0dq7KXNH1seOt2mcSe5-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Search Book" vertex="1">
           <mxGeometry height="80" width="200" x="451" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="H0dq7KXNH1seOt2mcSe5-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="H0dq7KXNH1seOt2mcSe5-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Check Availability" vertex="1">
           <mxGeometry height="80" width="200" x="461" y="410" as="geometry" />
         </mxCell>
         <mxCell id="H0dq7KXNH1seOt2mcSe5-9" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Librarian&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
